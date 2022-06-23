@@ -11,7 +11,9 @@ The steps for installing Git can be found here:
 2. Clone the mysql repository to that folder.
   ![image](https://user-images.githubusercontent.com/51730523/175397784-8c7895c8-93c5-40d7-ac88-2d67f6b95f7f.png)
   ![image](https://user-images.githubusercontent.com/51730523/175398164-7fbb400e-67d9-4fa7-b99d-4a4a3496d6b7.png)
-3. Open commmad prompt and run the Docker command from mysql as required.
+3. To get the latest changes on the repository.
+   ![image](https://user-images.githubusercontent.com/51730523/175399685-61d0eb7d-04bd-42f4-8efe-2f067a5940a1.png)
+4. Open commmad prompt and run the Docker command from mysql as required.
 ## Command to run the docker 
    ```
    docker-compose up 
