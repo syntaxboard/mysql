@@ -1,10 +1,10 @@
 # mysql
 # Docker Installation 
 The steps for installing Docker can be found here:
-  https://github.com/syntaxboard/postgres-docker
+  [Docker Installation](https://github.com/syntaxboard/docker-installation)
 # Git Installtion 
 The steps for installing Git can be found here:
-  https://github.com/syntaxboard/postgres-docker
+  [Git Installation](https://github.com/syntaxboard/git-installtion)
 # Building the Docker
 1. Create a directory on the local system and call it mysql.
 2. Clone the mysql repository to that folder.
