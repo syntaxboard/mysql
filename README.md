@@ -7,7 +7,9 @@ The steps for installing Git can be found here:
   [Git Installation](https://github.com/syntaxboard/git-installtion)
 # Building the Docker
 1. Create a directory on the local system and call it mysql.
+  ![image](https://user-images.githubusercontent.com/51730523/175397289-13dc6e85-fc9e-482c-9d9e-313412986cd7.png)
 2. Clone the mysql repository to that folder.
+
 3. Open commmad prompt and run the Docker command from mysql as required.
 ## Command to run the docker 
    ```
