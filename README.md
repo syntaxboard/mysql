@@ -1,4 +1,4 @@
-# mysql
+# MySql Docker
 # Docker Installation 
 The steps for installing Docker can be found here:
   [Docker Installation](https://github.com/syntaxboard/docker-installation)
