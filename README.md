@@ -24,7 +24,7 @@ The steps for installing Git can be found here:
    ```
 ## Command to remove the container 
    ```
-   docker-compose up down
+   docker-compose down
    ```
 ## Command to force the docker recreate the image and container
    ```
